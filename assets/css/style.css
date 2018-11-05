@@ -219,64 +219,28 @@ body {
   /* Responsive Element Changes */
 
   @media screen and (max-width: 980px) {
-    /* body {
-      background-color: #333;
+    .container {
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+      clear: both;
     }
-    .wrapper {
-      width: 600px;
-    }
-    #main-content {
-      float: none;
-      background: purple;
-    }
-    #sidebar {
-      margin-top: 10px;
-      float: none;
-      background: purple;
-    }
-    p {
-      color: green;
-    } */
   }
 
   @media screen and (max-width: 768px) {
-    /* body {
-      background-color: #333;
+    .container {
+      width: 100%;
+      max-width: 768px;
+      margin: 0 auto;
+      clear: both;
     }
-    .wrapper {
-      width: 600px;
-    }
-    #main-content {
-      float: none;
-      background: purple;
-    }
-    #sidebar {
-      margin-top: 10px;
-      float: none;
-      background: purple;
-    }
-    p {
-      color: green;
-    } */
   }
 
   @media screen and (max-width: 640px) {
-    /* body {
-      background-color: #333;
+    .container {
+      width: 100%;
+      max-width: 640px;
+      margin: 0 auto;
+      clear: both;
     }
-    .wrapper {
-      width: 600px;
-    }
-    #main-content {
-      float: none;
-      background: purple;
-    }
-    #sidebar {
-      margin-top: 10px;
-      float: none;
-      background: purple;
-    }
-    p {
-      color: green;
-    } */
   }
