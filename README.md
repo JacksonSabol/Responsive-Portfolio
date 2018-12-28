@@ -1,6 +1,6 @@
 # Welcome!
 
-### The following project is part 2 of 2 for Assignment 2 of the UCB Full Stack Coding Bootcamp
+### The following project is simple portfolio page to play to showcase the use of media queries
 
 
 
